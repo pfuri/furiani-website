@@ -1,0 +1,131 @@
+#image-post-format-settings,
+#video-post-format-settings,
+#audio-past-format-settings,
+#quote-post-format-settings,
+#link-post-format-settings {
+    display: none;
+}
+
+.widget-content .photberry_widget label {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    display: block;
+}
+
+.widget-content label:first-child {
+    margin-top: 0;
+}
+
+.photberry_50_dib {
+    float: left;
+    width: 50%;
+}
+
+.photberry_text_table_row, .photberry_text_table_add_row {
+    clear: both;
+}
+
+.photberry_text_table_row {
+    margin-top: 15px;
+    overflow: hidden;
+    position: relative;
+    padding: 13px 15px;
+    border: 1px solid #e5e5e5;
+    background: #ffffff;
+}
+
+.photberry_text_table_row:first-child {
+    margin-top: 0;
+}
+
+.photberry_text_table_add_row {
+    margin-top: 20px !important;
+    margin-bottom: 15px !important;
+}
+
+.photberry_text_table_rows {
+    overflow: hidden;
+}
+
+.photberry_text_table_row .photberry_50_dib:first-child input {
+    width: 95%;
+}
+
+.photberry_text_table_row textarea {
+    height: 100px;
+}
+
+.photberry_dn {
+    display: none;
+}
+
+.photberry_text_table_row_remove, .photberry_text_table_row_move {
+    position: absolute;
+    bottom: 17px;
+    cursor: pointer;
+    font-size: 17px;
+    color: #008ec2;
+    transition: 0.2s all;
+}
+
+.photberry_text_table_row_remove {
+    left: 17px;
+}
+
+.photberry_text_table_row_move {
+    left: 45px;
+}
+
+.photberry_text_table_row_remove:hover, .photberry_text_table_row_move:hover {
+    color: #000;
+}
+
+.postbox-container .rwmb-meta-box {
+    margin-top: 20px;
+}
+
+/* Visual Composer */
+.photberry_delim_dot:after {
+    content: ".";
+    display: inline-block;
+}
+
+.photberry_delim_dot:last-child:after {
+    display: none;
+}
+
+.photberry_delim_comma:after {
+    content: ",";
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.photberry_delim_comma:last-child:after {
+    display: none;
+}
+
+.photberry_admin_wrapper {
+	padding: 20px 10px;
+}
+
+
+/* Templates Options */
+#gallery-template-settings,
+#comming-soon-settings {
+	display:none;
+}
+.page-gallery-ribbons #gallery-template-settings,
+.page-gallery-slider #gallery-template-settings,
+.page-coming-soon #comming-soon-settings {
+	display:block;
+}
+.page-coming-soon #page-settings,
+.page-coming-soon #elementor-switch-mode,
+.page-coming-soon #elementor-editor,
+.page-coming-soon #postdivrich {
+	display: none;
+}
+.page-coming-soon .editor-writing-flow__click-redirect,
+.page-coming-soon .editor-block-list__layout {
+	display: none!important;
+}

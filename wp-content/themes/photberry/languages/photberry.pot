@@ -1,0 +1,2472 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixel-Mafia WP\n"
+"POT-Creation-Date: 2019-04-26 12:46+0300\n"
+"PO-Revision-Date: 2016-01-26 20:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Pixel-Mafia <support@pixel-mafia.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404 Error! Page not Found."
+msgstr ""
+
+#: 404.php:14
+msgid "There's a lot of reasons why this page is 404. Don't waste your time enjoying the look of it. You could return to the homepage or search using the search box below."
+msgstr ""
+
+#: 404.php:17
+msgid "search the site"
+msgstr ""
+
+#: 404.php:17 searchform.php:12
+msgid "Search the site..."
+msgstr ""
+
+#: 404.php:18 searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: category.php:34 core/elementor/pm-blog-listing-widget.php:366
+#: core/elementor/pm-blog-listing-widget.php:432 index.php:35 search.php:88
+msgid " Prev"
+msgstr ""
+
+#: category.php:35 core/elementor/pm-blog-listing-widget.php:367
+#: core/elementor/pm-blog-listing-widget.php:433 index.php:36 search.php:89
+msgid "Next "
+msgstr ""
+
+#: comments.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:49
+msgid "Reply"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments on This Post"
+msgstr ""
+
+#: comments.php:102
+msgid "Let us know your thoughts about this topic"
+msgstr ""
+
+#: comments.php:105 core/elementor/pm-person-widget.php:122
+#: core/elementor/pm-price-item-widget.php:131
+msgid "Name"
+msgstr ""
+
+#: comments.php:106
+msgid "Email"
+msgstr ""
+
+#: comments.php:108
+msgid "Comment"
+msgstr ""
+
+#: comments.php:109
+msgid "Send Comment"
+msgstr ""
+
+#: core/ajax.php:146 core/elementor/pm-blog-listing-widget.php:345
+#: search.php:38
+msgid "by "
+msgstr ""
+
+#: core/ajax.php:459 search.php:67 standard-listing.php:49
+msgid "Read More"
+msgstr ""
+
+#: core/ajax.php:486 functions.php:51
+msgid "You do not have permissions to access this page."
+msgstr ""
+
+#: core/ajax.php:491
+msgid "Done!"
+msgstr ""
+
+#: core/customizer.php:160
+msgid "Header Settings"
+msgstr ""
+
+#: core/customizer.php:171
+msgid "Header Style (for Desktop)"
+msgstr ""
+
+#: core/customizer.php:186
+msgid "Header Style (for Mobile)"
+msgstr ""
+
+#: core/customizer.php:201
+msgid "Logo Type"
+msgstr ""
+
+#: core/customizer.php:216
+msgid "Logo Image"
+msgstr ""
+
+#: core/customizer.php:230
+msgid "Logo Image (Transparent Menu)"
+msgstr ""
+
+#: core/customizer.php:244
+msgid "Logo Retina"
+msgstr ""
+
+#: core/customizer.php:259
+msgid "Logo Text"
+msgstr ""
+
+#: core/customizer.php:273
+msgid "Logo Font"
+msgstr ""
+
+#: core/customizer.php:289
+msgid "Logo Size, px"
+msgstr ""
+
+#: core/customizer.php:303
+msgid "Logo Font Weight"
+msgstr ""
+
+#: core/customizer.php:319
+msgid "Logo Uppercase"
+msgstr ""
+
+#: core/customizer.php:334
+msgid "Logo Italic"
+msgstr ""
+
+#: core/customizer.php:349
+msgid "Logo Padding Top, px"
+msgstr ""
+
+#: core/customizer.php:362
+msgid "Logo Padding Bottom, px"
+msgstr ""
+
+#: core/customizer.php:375
+msgid "Header Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:390
+msgid "Header Menu Font-Size, px"
+msgstr ""
+
+#: core/customizer.php:403
+msgid "Header Menu Line-Height, px"
+msgstr ""
+
+#: core/customizer.php:416
+msgid "Header Menu Font Weight"
+msgstr ""
+
+#: core/customizer.php:432
+msgid "Header Menu Uppercase"
+msgstr ""
+
+#: core/customizer.php:446
+msgid "Header Menu Italic"
+msgstr ""
+
+#: core/customizer.php:460
+msgid "Header Sub Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:475
+msgid "Header Sub Menu Font-Size, px"
+msgstr ""
+
+#: core/customizer.php:486 core/customizer.php:497 core/customizer.php:514
+#: core/metabox.php:480
+msgid "Page Title"
+msgstr ""
+
+#: core/customizer.php:503 core/elementor/pm-albums-grid-widget.php:229
+#: core/elementor/pm-albums-grid-widget.php:242
+#: core/elementor/pm-albums-packery-widget.php:188
+#: core/elementor/pm-albums-packery-widget.php:201
+#: core/elementor/pm-blog-listing-widget.php:243
+#: core/elementor/pm-portfolio-listing-widget.php:255
+#: core/elementor/pm-portfolio-listing-widget.php:268
+#: core/elementor/pm-portfolio-packery-widget.php:188
+#: core/elementor/pm-portfolio-packery-widget.php:201 core/metabox.php:301
+#: core/metabox.php:311 core/metabox.php:321 core/metabox.php:339
+#: core/metabox.php:349 core/metabox.php:404 core/metabox.php:427
+#: core/metabox.php:485 core/metabox.php:527 core/metabox.php:560
+msgid "Hide"
+msgstr ""
+
+#: core/customizer.php:520 core/elementor/init.php:391
+#: core/elementor/init.php:417 core/elementor/pm-albums-carousel-widget.php:56
+#: core/elementor/pm-albums-grid-widget.php:56
+#: core/elementor/pm-albums-packery-widget.php:56
+#: core/elementor/pm-blog-listing-widget.php:56
+#: core/elementor/pm-custom-map-widget.php:56
+#: core/elementor/pm-custom-map-widget.php:87
+#: core/elementor/pm-gallery-grid-widget.php:56
+#: core/elementor/pm-gallery-packery-widget.php:56
+#: core/elementor/pm-gallery-slider-widget.php:56
+#: core/elementor/pm-gallery-split-widget.php:56
+#: core/elementor/pm-itemized-link-widget.php:56
+#: core/elementor/pm-itemized-link-widget.php:87
+#: core/elementor/pm-media-grid-widget.php:55
+#: core/elementor/pm-media-slider-widget.php:55
+#: core/elementor/pm-person-widget.php:56
+#: core/elementor/pm-person-widget.php:87
+#: core/elementor/pm-portfolio-listing-widget.php:56
+#: core/elementor/pm-portfolio-packery-widget.php:56
+#: core/elementor/pm-price-item-widget.php:56
+#: core/elementor/pm-price-item-widget.php:87
+#: core/elementor/pm-recent-ports-widget.php:57
+#: core/elementor/pm-recent-ports-widget.php:88
+#: core/elementor/pm-recent-posts-widget.php:57
+#: core/elementor/pm-recent-posts-widget.php:88
+#: core/elementor/pm-testimonials-widget.php:55
+#: core/elementor/pm-testimonials-widget.php:86 core/metabox.php:498
+msgid "Center"
+msgstr ""
+
+#: core/customizer.php:521 core/elementor/init.php:395
+#: core/elementor/init.php:421 core/elementor/pm-albums-carousel-widget.php:60
+#: core/elementor/pm-albums-grid-widget.php:60
+#: core/elementor/pm-albums-packery-widget.php:60
+#: core/elementor/pm-blog-listing-widget.php:60
+#: core/elementor/pm-custom-map-widget.php:60
+#: core/elementor/pm-custom-map-widget.php:91
+#: core/elementor/pm-gallery-grid-widget.php:60
+#: core/elementor/pm-gallery-packery-widget.php:60
+#: core/elementor/pm-gallery-slider-widget.php:60
+#: core/elementor/pm-gallery-split-widget.php:60
+#: core/elementor/pm-itemized-link-widget.php:60
+#: core/elementor/pm-itemized-link-widget.php:91
+#: core/elementor/pm-media-grid-widget.php:59
+#: core/elementor/pm-media-slider-widget.php:59
+#: core/elementor/pm-person-widget.php:60
+#: core/elementor/pm-person-widget.php:91
+#: core/elementor/pm-portfolio-listing-widget.php:60
+#: core/elementor/pm-portfolio-packery-widget.php:60
+#: core/elementor/pm-price-item-widget.php:60
+#: core/elementor/pm-price-item-widget.php:91
+#: core/elementor/pm-recent-ports-widget.php:61
+#: core/elementor/pm-recent-ports-widget.php:92
+#: core/elementor/pm-recent-posts-widget.php:61
+#: core/elementor/pm-recent-posts-widget.php:92
+#: core/elementor/pm-testimonials-widget.php:59
+#: core/elementor/pm-testimonials-widget.php:90 core/metabox.php:415
+#: core/metabox.php:499 core/metabox.php:513
+msgid "Right"
+msgstr ""
+
+#: core/customizer.php:531 core/metabox.php:291
+msgid "Post Settings"
+msgstr ""
+
+#: core/customizer.php:542 core/elementor/pm-albums-carousel-widget.php:129
+#: core/elementor/pm-albums-grid-widget.php:203
+#: core/elementor/pm-albums-packery-widget.php:162
+#: core/elementor/pm-blog-listing-widget.php:200
+#: core/elementor/pm-portfolio-listing-widget.php:229
+#: core/elementor/pm-portfolio-packery-widget.php:162
+#: core/elementor/pm-recent-ports-widget.php:134
+#: core/elementor/pm-recent-posts-widget.php:134 core/metabox.php:399
+msgid "Post Title"
+msgstr ""
+
+#: core/customizer.php:557 core/metabox.php:296
+msgid "Post Tags"
+msgstr ""
+
+#: core/customizer.php:572 core/metabox.php:306 core/metabox.php:334
+msgid "Share Buttons"
+msgstr ""
+
+#: core/customizer.php:587
+msgid "Posts Featured Block"
+msgstr ""
+
+#: core/customizer.php:602 core/metabox.php:344
+msgid "Posts Navigation"
+msgstr ""
+
+#: core/customizer.php:626 single-pm-portfolio.php:90 single.php:80
+msgid "Facebook"
+msgstr ""
+
+#: core/customizer.php:639 single-pm-portfolio.php:97 single.php:87
+msgid "Twitter"
+msgstr ""
+
+#: core/customizer.php:652
+msgid "LinkedIn"
+msgstr ""
+
+#: core/customizer.php:665
+msgid "YouTube"
+msgstr ""
+
+#: core/customizer.php:678
+msgid "Instagram"
+msgstr ""
+
+#: core/customizer.php:691 single-pm-portfolio.php:104 single.php:94
+msgid "Pinterest"
+msgstr ""
+
+#: core/customizer.php:704
+msgid "Tumblr"
+msgstr ""
+
+#: core/customizer.php:717
+msgid "Flickr"
+msgstr ""
+
+#: core/customizer.php:730
+msgid "VK"
+msgstr ""
+
+#: core/customizer.php:743
+msgid "Dribbble"
+msgstr ""
+
+#: core/customizer.php:756
+msgid "Vimeo"
+msgstr ""
+
+#: core/customizer.php:767
+msgid "Footer Settings"
+msgstr ""
+
+#: core/customizer.php:778
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: core/customizer.php:793
+msgid "Number of Widgets Columns"
+msgstr ""
+
+#: core/customizer.php:808
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: core/customizer.php:821
+msgid "Advanced Footer Information Line"
+msgstr ""
+
+#: core/customizer.php:832
+msgid "Sidebars"
+msgstr ""
+
+#: core/customizer.php:843 core/metabox.php:410 core/metabox.php:508
+#: functions.php:1105
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/customizer.php:856
+msgid "Typography"
+msgstr ""
+
+#: core/customizer.php:867
+msgid "Main Font Family"
+msgstr ""
+
+#: core/customizer.php:882
+msgid "Main Font-Size, px"
+msgstr ""
+
+#: core/customizer.php:895
+msgid "Main Line-Height, px"
+msgstr ""
+
+#: core/customizer.php:908
+msgid "Main Font Weight"
+msgstr ""
+
+#: core/customizer.php:924
+msgid "Dropcap Font Size, px"
+msgstr ""
+
+#: core/customizer.php:937
+msgid "Dropcap Line-Height, px"
+msgstr ""
+
+#: core/customizer.php:950
+msgid "Dropcap Font Weight"
+msgstr ""
+
+#: core/customizer.php:967
+msgid "Default Paragraph Margin"
+msgstr ""
+
+#: core/customizer.php:980
+msgid "Headings Font Family"
+msgstr ""
+
+#: core/customizer.php:994
+msgid "Headings Font Weight"
+msgstr ""
+
+#: core/customizer.php:1010
+msgid "H1 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1023
+msgid "H1 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1036
+msgid "H2 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1049
+msgid "H2 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1062
+msgid "H3 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1075
+msgid "H3 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1088
+msgid "H4 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1101
+msgid "H4 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1114
+msgid "H5 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1127
+msgid "H5 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1140
+msgid "H6 Font Size, px"
+msgstr ""
+
+#: core/customizer.php:1153
+msgid "H6 Line Height, px"
+msgstr ""
+
+#: core/customizer.php:1164
+msgid "Color Settings"
+msgstr ""
+
+#: core/customizer.php:1175
+msgid "Theme Color"
+msgstr ""
+
+#: core/customizer.php:1188 core/metabox.php:548
+msgid "Body Background"
+msgstr ""
+
+#: core/customizer.php:1201
+msgid "Sidebar Background"
+msgstr ""
+
+#: core/customizer.php:1214
+msgid "Headings Color"
+msgstr ""
+
+#: core/customizer.php:1227
+msgid "Text Color"
+msgstr ""
+
+#: core/customizer.php:1240
+msgid "Additional Text Color"
+msgstr ""
+
+#: core/customizer.php:1253
+msgid "404 Page Text Color"
+msgstr ""
+
+#: core/customizer.php:1266
+msgid "Coming Soon Text Color"
+msgstr ""
+
+#: core/customizer.php:1279
+msgid "Password Protected Text Color"
+msgstr ""
+
+#: core/customizer.php:1292
+msgid "Input Background"
+msgstr ""
+
+#: core/customizer.php:1305
+msgid "Input Color"
+msgstr ""
+
+#: core/customizer.php:1318
+msgid "Button Background"
+msgstr ""
+
+#: core/customizer.php:1331
+msgid "Button Color"
+msgstr ""
+
+#: core/customizer.php:1344
+msgid "Menu Background"
+msgstr ""
+
+#: core/customizer.php:1357
+msgid "Menu Color"
+msgstr ""
+
+#: core/customizer.php:1370
+msgid "Menu Active Color"
+msgstr ""
+
+#: core/customizer.php:1383
+msgid "Transparent Menu Color"
+msgstr ""
+
+#: core/customizer.php:1396
+msgid "Transparent Menu Active Color"
+msgstr ""
+
+#: core/customizer.php:1409
+msgid "Footer Background"
+msgstr ""
+
+#: core/customizer.php:1422
+msgid "Footer Color"
+msgstr ""
+
+#: core/customizer.php:1435
+msgid "Footer Additional Color"
+msgstr ""
+
+#: core/customizer.php:1448
+msgid "Footer Headings Color"
+msgstr ""
+
+#: core/customizer.php:1460
+msgid "Blog Featured Posts"
+msgstr ""
+
+#: core/customizer.php:1471
+msgid "Featured Posts Status"
+msgstr ""
+
+#: core/customizer.php:1486
+msgid "Featured Posts Order By"
+msgstr ""
+
+#: core/customizer.php:1501 core/elementor/pm-recent-ports-widget.php:113
+#: core/elementor/pm-recent-posts-widget.php:113 core/metabox.php:184
+#: core/metabox.php:273
+msgid "Number of Posts"
+msgstr ""
+
+#: core/customizer.php:1516
+msgid "Feature Image"
+msgstr ""
+
+#: core/customizer.php:1531
+msgid "Post Meta"
+msgstr ""
+
+#: core/customizer.php:1546 core/metabox.php:227
+msgid "Excerpt"
+msgstr ""
+
+#: core/customizer.php:1559
+msgid "Error 404 Page"
+msgstr ""
+
+#: core/customizer.php:1570 core/customizer.php:1592 core/customizer.php:1614
+msgid "Background Image"
+msgstr ""
+
+#: core/customizer.php:1581
+msgid "Coming Soon Page"
+msgstr ""
+
+#: core/customizer.php:1603
+msgid "Password Protected Page"
+msgstr ""
+
+#: core/customizer.php:1636
+msgid "Your Flickr ID"
+msgstr ""
+
+#: core/customizer.php:1659
+msgid "Site Responsive"
+msgstr ""
+
+#: core/customizer.php:1674
+msgid "Portfolio Post Type Name"
+msgstr ""
+
+#: core/customizer.php:1687
+msgid "Portfolio Post Type Slug"
+msgstr ""
+
+#: core/customizer.php:1700
+msgid "Portfolio Post Type Taxonomy"
+msgstr ""
+
+#: core/customizer.php:1713
+msgid "Albums Post Type Name"
+msgstr ""
+
+#: core/customizer.php:1726
+msgid "Albums Post Type Slug"
+msgstr ""
+
+#: core/customizer.php:1739
+msgid "Albums Post Type Taxonomy"
+msgstr ""
+
+#: core/elementor/init.php:354
+msgid "Pixel-Mafia Elements"
+msgstr ""
+
+#: core/elementor/init.php:367
+msgid "Z-Index"
+msgstr ""
+
+#: core/elementor/init.php:383
+msgid "Tabs Alignment"
+msgstr ""
+
+#: core/elementor/init.php:387 core/elementor/init.php:413
+#: core/elementor/pm-albums-carousel-widget.php:52
+#: core/elementor/pm-albums-grid-widget.php:52
+#: core/elementor/pm-albums-packery-widget.php:52
+#: core/elementor/pm-blog-listing-widget.php:52
+#: core/elementor/pm-custom-map-widget.php:52
+#: core/elementor/pm-custom-map-widget.php:83
+#: core/elementor/pm-gallery-grid-widget.php:52
+#: core/elementor/pm-gallery-packery-widget.php:52
+#: core/elementor/pm-gallery-slider-widget.php:52
+#: core/elementor/pm-gallery-split-widget.php:52
+#: core/elementor/pm-itemized-link-widget.php:52
+#: core/elementor/pm-itemized-link-widget.php:83
+#: core/elementor/pm-media-grid-widget.php:51
+#: core/elementor/pm-media-slider-widget.php:51
+#: core/elementor/pm-person-widget.php:52
+#: core/elementor/pm-person-widget.php:83
+#: core/elementor/pm-portfolio-listing-widget.php:52
+#: core/elementor/pm-portfolio-packery-widget.php:52
+#: core/elementor/pm-price-item-widget.php:52
+#: core/elementor/pm-price-item-widget.php:83
+#: core/elementor/pm-recent-ports-widget.php:53
+#: core/elementor/pm-recent-ports-widget.php:84
+#: core/elementor/pm-recent-posts-widget.php:53
+#: core/elementor/pm-recent-posts-widget.php:84
+#: core/elementor/pm-testimonials-widget.php:51
+#: core/elementor/pm-testimonials-widget.php:82 core/metabox.php:414
+#: core/metabox.php:497 core/metabox.php:512
+msgid "Left"
+msgstr ""
+
+#: core/elementor/init.php:409
+msgid "Content Alignment"
+msgstr ""
+
+#: core/elementor/init.php:435
+msgid "Borders Style"
+msgstr ""
+
+#: core/elementor/init.php:440 core/elementor/pm-gallery-grid-widget.php:164
+#: core/elementor/pm-gallery-packery-widget.php:136
+#: core/elementor/pm-media-grid-widget.php:129
+#: core/elementor/pm-media-grid-widget.php:232
+#: core/elementor/pm-media-slider-widget.php:129 core/metabox.php:163
+#: core/metabox.php:173 core/metabox.php:187 core/metabox.php:202
+#: core/metabox.php:216 core/metabox.php:230 core/metabox.php:252
+#: core/metabox.php:262 core/metabox.php:276 core/metabox.php:299
+#: core/metabox.php:309 core/metabox.php:319 core/metabox.php:337
+#: core/metabox.php:347 core/metabox.php:402 core/metabox.php:413
+#: core/metabox.php:425 core/metabox.php:443 core/metabox.php:483
+#: core/metabox.php:496 core/metabox.php:511 core/metabox.php:525
+#: core/metabox.php:538 core/metabox.php:600
+msgid "Default"
+msgstr ""
+
+#: core/elementor/init.php:441
+msgid "One Border"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:18
+#: core/elementor/pm-albums-carousel-widget.php:73
+msgid "Albums Carousel"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:33
+#: core/elementor/pm-albums-grid-widget.php:33
+#: core/elementor/pm-albums-packery-widget.php:33
+#: core/elementor/pm-blog-listing-widget.php:33
+#: core/elementor/pm-custom-map-widget.php:33
+#: core/elementor/pm-gallery-grid-widget.php:33
+#: core/elementor/pm-gallery-packery-widget.php:33
+#: core/elementor/pm-gallery-slider-widget.php:33
+#: core/elementor/pm-gallery-split-widget.php:33
+#: core/elementor/pm-itemized-link-widget.php:33
+#: core/elementor/pm-media-grid-widget.php:32
+#: core/elementor/pm-media-slider-widget.php:32
+#: core/elementor/pm-person-widget.php:33
+#: core/elementor/pm-portfolio-listing-widget.php:33
+#: core/elementor/pm-portfolio-packery-widget.php:33
+#: core/elementor/pm-price-item-widget.php:33
+#: core/elementor/pm-recent-ports-widget.php:34
+#: core/elementor/pm-recent-posts-widget.php:34
+#: core/elementor/pm-testimonials-widget.php:32
+msgid "Element Heading"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:40
+#: core/elementor/pm-albums-grid-widget.php:40
+#: core/elementor/pm-albums-packery-widget.php:40
+#: core/elementor/pm-blog-listing-widget.php:40
+#: core/elementor/pm-custom-map-widget.php:40
+#: core/elementor/pm-gallery-grid-widget.php:40
+#: core/elementor/pm-gallery-packery-widget.php:40
+#: core/elementor/pm-gallery-slider-widget.php:40
+#: core/elementor/pm-gallery-split-widget.php:40
+#: core/elementor/pm-itemized-link-widget.php:40
+#: core/elementor/pm-media-grid-widget.php:39
+#: core/elementor/pm-media-slider-widget.php:39
+#: core/elementor/pm-person-widget.php:40
+#: core/elementor/pm-portfolio-listing-widget.php:40
+#: core/elementor/pm-portfolio-packery-widget.php:40
+#: core/elementor/pm-price-item-widget.php:40
+#: core/elementor/pm-recent-ports-widget.php:41
+#: core/elementor/pm-recent-posts-widget.php:41
+#: core/elementor/pm-testimonials-widget.php:39
+msgid "Element Title"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:48
+#: core/elementor/pm-albums-grid-widget.php:48
+#: core/elementor/pm-albums-packery-widget.php:48
+#: core/elementor/pm-blog-listing-widget.php:48
+#: core/elementor/pm-custom-map-widget.php:48
+#: core/elementor/pm-gallery-grid-widget.php:48
+#: core/elementor/pm-gallery-packery-widget.php:48
+#: core/elementor/pm-gallery-slider-widget.php:48
+#: core/elementor/pm-gallery-split-widget.php:48
+#: core/elementor/pm-itemized-link-widget.php:48
+#: core/elementor/pm-media-grid-widget.php:47
+#: core/elementor/pm-media-slider-widget.php:47
+#: core/elementor/pm-person-widget.php:48
+#: core/elementor/pm-portfolio-listing-widget.php:48
+#: core/elementor/pm-portfolio-packery-widget.php:48
+#: core/elementor/pm-price-item-widget.php:48
+#: core/elementor/pm-recent-ports-widget.php:49
+#: core/elementor/pm-recent-posts-widget.php:49
+#: core/elementor/pm-testimonials-widget.php:47
+msgid "Title Alignment"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:81
+#: core/elementor/pm-albums-grid-widget.php:81
+#: core/elementor/pm-albums-packery-widget.php:81
+#: core/elementor/pm-blog-listing-widget.php:81
+#: core/elementor/pm-portfolio-listing-widget.php:81
+#: core/elementor/pm-portfolio-packery-widget.php:81
+msgid "Categories"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:85
+#: core/elementor/pm-albums-grid-widget.php:85
+#: core/elementor/pm-albums-packery-widget.php:85
+#: core/elementor/pm-blog-listing-widget.php:85
+#: core/elementor/pm-portfolio-listing-widget.php:85
+#: core/elementor/pm-portfolio-packery-widget.php:85 functions.php:704
+#: functions.php:761 functions.php:818
+msgid "All"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:86
+#: core/elementor/pm-albums-grid-widget.php:86
+#: core/elementor/pm-albums-packery-widget.php:86
+#: core/elementor/pm-blog-listing-widget.php:86
+#: core/elementor/pm-portfolio-listing-widget.php:86
+#: core/elementor/pm-portfolio-packery-widget.php:86
+msgid "Customize"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:103
+#: core/elementor/pm-albums-grid-widget.php:103
+#: core/elementor/pm-albums-packery-widget.php:103
+#: core/elementor/pm-blog-listing-widget.php:101
+#: core/elementor/pm-portfolio-listing-widget.php:103
+#: core/elementor/pm-portfolio-packery-widget.php:103
+msgid "No category available"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:109
+#: core/elementor/pm-albums-grid-widget.php:109
+#: core/elementor/pm-albums-packery-widget.php:109
+#: core/elementor/pm-blog-listing-widget.php:107
+#: core/elementor/pm-portfolio-listing-widget.php:109
+#: core/elementor/pm-portfolio-packery-widget.php:109
+msgid "Select Categories"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:122
+#: core/elementor/pm-albums-grid-widget.php:196
+#: core/elementor/pm-albums-packery-widget.php:155
+#: core/elementor/pm-blog-listing-widget.php:193
+#: core/elementor/pm-portfolio-listing-widget.php:222
+#: core/elementor/pm-portfolio-packery-widget.php:155
+#: core/elementor/pm-recent-ports-widget.php:127
+#: core/elementor/pm-recent-posts-widget.php:127 core/metabox.php:170
+#: core/metabox.php:259
+msgid "Order By"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:126
+#: core/elementor/pm-albums-grid-widget.php:200
+#: core/elementor/pm-albums-packery-widget.php:159
+#: core/elementor/pm-blog-listing-widget.php:197
+#: core/elementor/pm-portfolio-listing-widget.php:226
+#: core/elementor/pm-portfolio-packery-widget.php:159
+#: core/elementor/pm-recent-ports-widget.php:131
+#: core/elementor/pm-recent-posts-widget.php:131
+msgid "Post Date"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:127
+#: core/elementor/pm-albums-grid-widget.php:201
+#: core/elementor/pm-albums-packery-widget.php:160
+#: core/elementor/pm-blog-listing-widget.php:198
+#: core/elementor/pm-portfolio-listing-widget.php:227
+#: core/elementor/pm-portfolio-packery-widget.php:160
+#: core/elementor/pm-recent-ports-widget.php:132
+#: core/elementor/pm-recent-posts-widget.php:132 core/metabox.php:174
+#: core/metabox.php:263
+msgid "Random"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:128
+#: core/elementor/pm-albums-grid-widget.php:202
+#: core/elementor/pm-albums-packery-widget.php:161
+#: core/elementor/pm-blog-listing-widget.php:199
+#: core/elementor/pm-portfolio-listing-widget.php:228
+#: core/elementor/pm-portfolio-packery-widget.php:161
+#: core/elementor/pm-recent-ports-widget.php:133
+#: core/elementor/pm-recent-posts-widget.php:133
+msgid "Post ID"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:137
+#: core/elementor/pm-albums-grid-widget.php:211
+#: core/elementor/pm-albums-packery-widget.php:170
+#: core/elementor/pm-blog-listing-widget.php:208
+#: core/elementor/pm-portfolio-listing-widget.php:237
+#: core/elementor/pm-portfolio-packery-widget.php:170
+#: core/elementor/pm-recent-ports-widget.php:142
+#: core/elementor/pm-recent-posts-widget.php:142
+msgid "Order"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:141
+#: core/elementor/pm-albums-grid-widget.php:215
+#: core/elementor/pm-albums-packery-widget.php:174
+#: core/elementor/pm-blog-listing-widget.php:212
+#: core/elementor/pm-portfolio-listing-widget.php:241
+#: core/elementor/pm-portfolio-packery-widget.php:174
+#: core/elementor/pm-recent-ports-widget.php:146
+#: core/elementor/pm-recent-posts-widget.php:146
+msgid "Descending"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:142
+#: core/elementor/pm-albums-grid-widget.php:216
+#: core/elementor/pm-albums-packery-widget.php:175
+#: core/elementor/pm-blog-listing-widget.php:213
+#: core/elementor/pm-portfolio-listing-widget.php:242
+#: core/elementor/pm-portfolio-packery-widget.php:175
+#: core/elementor/pm-recent-ports-widget.php:147
+#: core/elementor/pm-recent-posts-widget.php:147
+msgid "Ascending"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:151
+msgid "Items on Screen"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:162
+msgid "Items Padding"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:173
+#: core/elementor/pm-gallery-slider-widget.php:209
+#: core/elementor/pm-media-slider-widget.php:291
+#: core/elementor/pm-testimonials-widget.php:171 core/metabox.php:849
+msgid "Autoplay"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:177
+#: core/elementor/pm-albums-carousel-widget.php:202
+#: core/elementor/pm-albums-carousel-widget.php:218
+#: core/elementor/pm-itemized-link-widget.php:144
+#: core/elementor/pm-itemized-link-widget.php:157
+#: core/elementor/pm-price-item-widget.php:162
+#: core/elementor/pm-price-item-widget.php:175
+#: core/elementor/pm-testimonials-widget.php:175
+#: core/elementor/pm-testimonials-widget.php:204
+#: core/elementor/pm-testimonials-widget.php:221 core/metabox.php:29
+#: core/metabox.php:93 core/metabox.php:369 core/metabox.php:457
+#: core/metabox.php:470
+msgid "Yes"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:178
+#: core/elementor/pm-albums-carousel-widget.php:203
+#: core/elementor/pm-albums-carousel-widget.php:219
+#: core/elementor/pm-itemized-link-widget.php:143
+#: core/elementor/pm-itemized-link-widget.php:156
+#: core/elementor/pm-price-item-widget.php:161
+#: core/elementor/pm-price-item-widget.php:174
+#: core/elementor/pm-testimonials-widget.php:176
+#: core/elementor/pm-testimonials-widget.php:205
+#: core/elementor/pm-testimonials-widget.php:222 core/metabox.php:30
+#: core/metabox.php:94 core/metabox.php:368 core/metabox.php:458
+#: core/metabox.php:471
+msgid "No"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:186
+#: core/elementor/pm-gallery-slider-widget.php:222
+#: core/elementor/pm-media-slider-widget.php:304
+#: core/elementor/pm-testimonials-widget.php:187 core/metabox.php:863
+msgid "Autoplay Speed"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:198
+#: core/elementor/pm-testimonials-widget.php:200
+msgid "Pause on Hover"
+msgstr ""
+
+#: core/elementor/pm-albums-carousel-widget.php:214
+#: core/elementor/pm-testimonials-widget.php:217
+msgid "Infinite Loop"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:18
+#: core/elementor/pm-albums-grid-widget.php:73
+msgid "Albums Grid"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:122
+#: core/elementor/pm-albums-packery-widget.php:122
+#: core/elementor/pm-blog-listing-widget.php:167
+#: core/elementor/pm-gallery-grid-widget.php:90
+#: core/elementor/pm-gallery-packery-widget.php:90
+#: core/elementor/pm-media-grid-widget.php:158
+#: core/elementor/pm-portfolio-listing-widget.php:136
+#: core/elementor/pm-portfolio-packery-widget.php:122
+msgid "Posts per Page"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:133
+#: core/elementor/pm-albums-packery-widget.php:133
+#: core/elementor/pm-blog-listing-widget.php:178
+#: core/elementor/pm-gallery-grid-widget.php:101
+#: core/elementor/pm-gallery-packery-widget.php:101
+#: core/elementor/pm-media-grid-widget.php:169
+#: core/elementor/pm-portfolio-listing-widget.php:147
+#: core/elementor/pm-portfolio-packery-widget.php:133
+msgid "Posts per Click"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:144
+#: core/elementor/pm-blog-listing-widget.php:133
+#: core/elementor/pm-gallery-grid-widget.php:112
+#: core/elementor/pm-media-grid-widget.php:180
+#: core/elementor/pm-portfolio-listing-widget.php:158 core/metabox.php:628
+msgid "Columns"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:148
+#: core/elementor/pm-blog-listing-widget.php:137
+#: core/elementor/pm-gallery-grid-widget.php:116
+#: core/elementor/pm-media-grid-widget.php:184
+#: core/elementor/pm-portfolio-listing-widget.php:162
+#: core/elementor/pm-recent-ports-widget.php:117
+#: core/elementor/pm-recent-posts-widget.php:117 core/metabox.php:632
+msgid "Two"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:149
+#: core/elementor/pm-blog-listing-widget.php:138
+#: core/elementor/pm-gallery-grid-widget.php:117
+#: core/elementor/pm-media-grid-widget.php:185
+#: core/elementor/pm-portfolio-listing-widget.php:163
+#: core/elementor/pm-recent-ports-widget.php:118
+#: core/elementor/pm-recent-posts-widget.php:118 core/metabox.php:633
+msgid "Three"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:150
+#: core/elementor/pm-blog-listing-widget.php:139
+#: core/elementor/pm-gallery-grid-widget.php:118
+#: core/elementor/pm-media-grid-widget.php:186
+#: core/elementor/pm-portfolio-listing-widget.php:164
+#: core/elementor/pm-recent-ports-widget.php:119
+#: core/elementor/pm-recent-posts-widget.php:119 core/metabox.php:634
+msgid "Four"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:151
+#: core/elementor/pm-blog-listing-widget.php:140
+#: core/elementor/pm-gallery-grid-widget.php:119
+#: core/elementor/pm-media-grid-widget.php:187
+#: core/elementor/pm-portfolio-listing-widget.php:165 core/metabox.php:635
+msgid "Five"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:159
+#: core/elementor/pm-blog-listing-widget.php:151
+#: core/elementor/pm-portfolio-listing-widget.php:176
+msgid "Images Shape"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:163
+#: core/elementor/pm-blog-listing-widget.php:155
+#: core/elementor/pm-portfolio-listing-widget.php:180
+msgid "Rectangle"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:164
+#: core/elementor/pm-blog-listing-widget.php:156
+#: core/elementor/pm-portfolio-listing-widget.php:181
+msgid "Square"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:172
+#: core/elementor/pm-gallery-grid-widget.php:138
+#: core/elementor/pm-media-grid-widget.php:206
+#: core/elementor/pm-portfolio-listing-widget.php:192
+msgid "Masonry Layout"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:176
+#: core/elementor/pm-gallery-grid-widget.php:142
+#: core/elementor/pm-gallery-slider-widget.php:110
+#: core/elementor/pm-gallery-slider-widget.php:124
+#: core/elementor/pm-gallery-slider-widget.php:148
+#: core/elementor/pm-gallery-slider-widget.php:173
+#: core/elementor/pm-gallery-slider-widget.php:213
+#: core/elementor/pm-gallery-split-widget.php:95
+#: core/elementor/pm-gallery-split-widget.php:133
+#: core/elementor/pm-gallery-split-widget.php:158
+#: core/elementor/pm-media-grid-widget.php:210
+#: core/elementor/pm-media-slider-widget.php:191
+#: core/elementor/pm-media-slider-widget.php:205
+#: core/elementor/pm-media-slider-widget.php:230
+#: core/elementor/pm-media-slider-widget.php:255
+#: core/elementor/pm-media-slider-widget.php:295
+#: core/elementor/pm-portfolio-listing-widget.php:196 core/metabox.php:677
+#: core/metabox.php:717 core/metabox.php:747 core/metabox.php:761
+#: core/metabox.php:791 core/metabox.php:815 core/metabox.php:840
+#: core/metabox.php:854
+msgid "Off"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:177
+#: core/elementor/pm-gallery-grid-widget.php:143
+#: core/elementor/pm-gallery-slider-widget.php:109
+#: core/elementor/pm-gallery-slider-widget.php:123
+#: core/elementor/pm-gallery-slider-widget.php:147
+#: core/elementor/pm-gallery-slider-widget.php:174
+#: core/elementor/pm-gallery-slider-widget.php:214
+#: core/elementor/pm-gallery-split-widget.php:94
+#: core/elementor/pm-gallery-split-widget.php:132
+#: core/elementor/pm-gallery-split-widget.php:159
+#: core/elementor/pm-media-grid-widget.php:211
+#: core/elementor/pm-media-slider-widget.php:190
+#: core/elementor/pm-media-slider-widget.php:204
+#: core/elementor/pm-media-slider-widget.php:229
+#: core/elementor/pm-media-slider-widget.php:256
+#: core/elementor/pm-media-slider-widget.php:296
+#: core/elementor/pm-portfolio-listing-widget.php:197 core/metabox.php:678
+#: core/metabox.php:716 core/metabox.php:746 core/metabox.php:760
+#: core/metabox.php:790 core/metabox.php:814 core/metabox.php:839
+#: core/metabox.php:853
+msgid "On"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:185
+#: core/elementor/pm-albums-packery-widget.php:144
+#: core/elementor/pm-gallery-grid-widget.php:127
+#: core/elementor/pm-gallery-packery-widget.php:112
+#: core/elementor/pm-media-grid-widget.php:195
+#: core/elementor/pm-portfolio-listing-widget.php:208
+#: core/elementor/pm-portfolio-packery-widget.php:144
+msgid "Padding Between Items"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:224
+#: core/elementor/pm-albums-packery-widget.php:183
+#: core/elementor/pm-portfolio-listing-widget.php:250
+#: core/elementor/pm-portfolio-packery-widget.php:183
+msgid "Filter Status"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:228
+#: core/elementor/pm-albums-grid-widget.php:241
+#: core/elementor/pm-albums-packery-widget.php:187
+#: core/elementor/pm-albums-packery-widget.php:200
+#: core/elementor/pm-blog-listing-widget.php:242
+#: core/elementor/pm-portfolio-listing-widget.php:254
+#: core/elementor/pm-portfolio-listing-widget.php:267
+#: core/elementor/pm-portfolio-packery-widget.php:187
+#: core/elementor/pm-portfolio-packery-widget.php:200 core/metabox.php:300
+#: core/metabox.php:310 core/metabox.php:320 core/metabox.php:338
+#: core/metabox.php:348 core/metabox.php:403 core/metabox.php:484
+msgid "Show"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:237
+#: core/elementor/pm-portfolio-listing-widget.php:263
+msgid "Load More Button Status"
+msgstr ""
+
+#: core/elementor/pm-albums-grid-widget.php:323
+#: core/elementor/pm-albums-packery-widget.php:278
+#: core/elementor/pm-blog-listing-widget.php:382
+#: core/elementor/pm-gallery-grid-widget.php:153
+#: core/elementor/pm-gallery-packery-widget.php:125
+#: core/elementor/pm-media-grid-widget.php:221
+#: core/elementor/pm-portfolio-listing-widget.php:353
+#: core/elementor/pm-portfolio-listing-widget.php:375
+#: core/elementor/pm-portfolio-packery-widget.php:278
+msgid "Load More"
+msgstr ""
+
+#: core/elementor/pm-albums-packery-widget.php:18
+#: core/elementor/pm-albums-packery-widget.php:73
+msgid "Albums Packery"
+msgstr ""
+
+#: core/elementor/pm-albums-packery-widget.php:196
+#: core/elementor/pm-portfolio-packery-widget.php:196
+msgid "Load More Status"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:18
+msgid "Blog"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:73
+msgid "Blog Listing"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:120
+msgid "Blog View Type"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:124
+#: core/elementor/pm-portfolio-listing-widget.php:127 core/metabox.php:614
+msgid "Grid"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:125
+msgid "Standard"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:221
+msgid "Pages Navigation"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:225
+msgid "Load More Button"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:226
+#: core/elementor/pm-blog-listing-widget.php:238
+msgid "Pagination"
+msgstr ""
+
+#: core/elementor/pm-blog-listing-widget.php:227
+#: core/elementor/pm-itemized-link-widget.php:169 core/metabox.php:416
+#: core/metabox.php:514
+msgid "None"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:18
+msgid "Custom Map"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:71
+#: core/elementor/pm-itemized-link-widget.php:71
+#: core/elementor/pm-person-widget.php:71
+#: core/elementor/pm-price-item-widget.php:71
+#: core/elementor/pm-recent-ports-widget.php:72
+#: core/elementor/pm-recent-posts-widget.php:72
+#: core/elementor/pm-testimonials-widget.php:70
+msgid "Element Subtitle"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:79
+#: core/elementor/pm-itemized-link-widget.php:79
+#: core/elementor/pm-person-widget.php:79
+#: core/elementor/pm-price-item-widget.php:79
+#: core/elementor/pm-recent-ports-widget.php:80
+#: core/elementor/pm-recent-posts-widget.php:80
+#: core/elementor/pm-testimonials-widget.php:78
+msgid "Subtitle Alignment"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:104
+msgid "Map"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:111
+msgid "HTML Code"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:114
+msgid "Enter Code of Your Custom Map Here"
+msgstr ""
+
+#: core/elementor/pm-custom-map-widget.php:121
+msgid "Height of Map"
+msgstr ""
+
+#: core/elementor/pm-gallery-grid-widget.php:18
+#: core/elementor/pm-gallery-grid-widget.php:73
+msgid "Grid Gallery"
+msgstr ""
+
+#: core/elementor/pm-gallery-grid-widget.php:81
+#: core/elementor/pm-gallery-packery-widget.php:81
+#: core/elementor/pm-gallery-slider-widget.php:81
+#: core/elementor/pm-gallery-split-widget.php:81
+msgid "Add Images"
+msgstr ""
+
+#: core/elementor/pm-gallery-grid-widget.php:151
+#: core/elementor/pm-gallery-packery-widget.php:123
+#: core/elementor/pm-media-grid-widget.php:219
+#: core/elementor/pm-price-item-widget.php:183
+msgid "Button Text"
+msgstr ""
+
+#: core/elementor/pm-gallery-grid-widget.php:160
+#: core/elementor/pm-gallery-packery-widget.php:132
+#: core/elementor/pm-media-grid-widget.php:228 core/metabox.php:697
+msgid "Button Type"
+msgstr ""
+
+#: core/elementor/pm-gallery-grid-widget.php:165
+#: core/elementor/pm-gallery-packery-widget.php:137
+#: core/elementor/pm-media-grid-widget.php:233 core/metabox.php:701
+msgid "Reverse"
+msgstr ""
+
+#: core/elementor/pm-gallery-packery-widget.php:18
+#: core/elementor/pm-gallery-packery-widget.php:73
+msgid "Packery Gallery"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:18
+#: core/elementor/pm-gallery-slider-widget.php:73
+msgid "Slider Gallery"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:90
+#: core/elementor/pm-media-slider-widget.php:158 core/metabox.php:726
+msgid "Fit Style"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:94
+#: core/elementor/pm-media-slider-widget.php:162
+#: core/elementor/pm-media-slider-widget.php:177 core/metabox.php:730
+msgid "Cover Slide"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:95
+#: core/elementor/pm-media-slider-widget.php:163
+#: core/elementor/pm-media-slider-widget.php:178 core/metabox.php:731
+msgid "Fit Always"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:96
+#: core/elementor/pm-media-slider-widget.php:164 core/metabox.php:732
+msgid "Fit Width"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:97
+#: core/elementor/pm-media-slider-widget.php:165 core/metabox.php:733
+msgid "Fit Height"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:105
+#: core/elementor/pm-media-slider-widget.php:186 core/metabox.php:742
+msgid "Thumbs State"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:119
+#: core/elementor/pm-gallery-split-widget.php:103
+#: core/elementor/pm-media-slider-widget.php:200
+msgid "Titles State"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:131
+#: core/elementor/pm-gallery-split-widget.php:116
+#: core/elementor/pm-media-slider-widget.php:213 core/metabox.php:800
+msgid "Titles Color"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:143
+#: core/elementor/pm-gallery-split-widget.php:128
+#: core/elementor/pm-media-slider-widget.php:225 core/metabox.php:810
+msgid "Overlay State"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:149
+#: core/elementor/pm-gallery-slider-widget.php:187
+#: core/elementor/pm-gallery-split-widget.php:134
+#: core/elementor/pm-gallery-split-widget.php:172
+#: core/elementor/pm-media-grid-widget.php:130
+#: core/elementor/pm-media-slider-widget.php:130
+#: core/elementor/pm-media-slider-widget.php:231
+#: core/elementor/pm-media-slider-widget.php:269 core/metabox.php:816
+msgid "Custom"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:157
+#: core/elementor/pm-gallery-split-widget.php:142
+#: core/elementor/pm-media-slider-widget.php:239
+msgid "Overlay Color"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:169
+#: core/elementor/pm-gallery-split-widget.php:154
+#: core/elementor/pm-media-slider-widget.php:251 core/metabox.php:835
+msgid "Controls State"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:182
+#: core/elementor/pm-gallery-split-widget.php:167
+#: core/elementor/pm-media-slider-widget.php:264
+msgid "Module Height Type"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:186
+#: core/elementor/pm-gallery-split-widget.php:171
+#: core/elementor/pm-media-slider-widget.php:268
+msgid "Auto"
+msgstr ""
+
+#: core/elementor/pm-gallery-slider-widget.php:195
+#: core/elementor/pm-gallery-split-widget.php:180
+#: core/elementor/pm-media-slider-widget.php:277
+msgid "Module Height"
+msgstr ""
+
+#: core/elementor/pm-gallery-split-widget.php:18
+#: core/elementor/pm-gallery-split-widget.php:73
+msgid "Split Gallery"
+msgstr ""
+
+#: core/elementor/pm-gallery-split-widget.php:90 core/metabox.php:756
+msgid "Infinity Scroll"
+msgstr ""
+
+#: core/elementor/pm-gallery-split-widget.php:107 core/metabox.php:444
+#: core/metabox.php:601 core/metabox.php:775
+msgid "Always Show"
+msgstr ""
+
+#: core/elementor/pm-gallery-split-widget.php:108 core/metabox.php:776
+msgid "Always Hide"
+msgstr ""
+
+#: core/elementor/pm-gallery-split-widget.php:109 core/metabox.php:777
+msgid "Show on Hover"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:18
+#: core/elementor/pm-itemized-link-widget.php:104
+msgid "Itemized Link"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:111
+#: core/elementor/pm-person-widget.php:111
+#: core/elementor/pm-price-item-widget.php:120
+msgid "Choose Image"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:122
+msgid "Item Title"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:131
+#: core/elementor/pm-person-widget.php:140
+#: core/elementor/pm-price-item-widget.php:149
+msgid "Description"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:139
+msgid "Link Image"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:152
+msgid "Link Title"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:165
+msgid "Link Style"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:170
+msgid "Text"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:171
+msgid "Text with Arrow"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:172
+msgid "Button"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:173
+msgid "Inverted Button"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:181
+msgid "Link Text"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:192
+msgid "Link URL"
+msgstr ""
+
+#: core/elementor/pm-itemized-link-widget.php:198
+#: core/elementor/pm-person-widget.php:206
+#: core/elementor/pm-price-item-widget.php:200
+msgid "http://your-link.com"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:17
+msgid "Media Grid"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:72
+msgid "Media Grid Items"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:84
+msgid "Item Type"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:88
+#: core/elementor/pm-media-slider-widget.php:88
+msgid "Image"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:89
+#: core/elementor/pm-media-slider-widget.php:89
+msgid "Video"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:94
+#: core/elementor/pm-media-slider-widget.php:94 core/metabox.php:125
+msgid "Video URL"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:103
+#: core/elementor/pm-media-grid-widget.php:114
+msgid "Select Image"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:125
+#: core/elementor/pm-media-slider-widget.php:125
+msgid "Caption Type"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:135
+#: core/elementor/pm-media-slider-widget.php:135
+msgid "Slide Caption"
+msgstr ""
+
+#: core/elementor/pm-media-grid-widget.php:151
+#: core/elementor/pm-media-slider-widget.php:151
+#: core/elementor/pm-testimonials-widget.php:150
+msgid "Settings"
+msgstr ""
+
+#: core/elementor/pm-media-slider-widget.php:17
+msgid "Media Slider"
+msgstr ""
+
+#: core/elementor/pm-media-slider-widget.php:72
+msgid "Media Slider Items"
+msgstr ""
+
+#: core/elementor/pm-media-slider-widget.php:84
+msgid "Slide Type"
+msgstr ""
+
+#: core/elementor/pm-media-slider-widget.php:103
+msgid "Slide Image"
+msgstr ""
+
+#: core/elementor/pm-media-slider-widget.php:114
+msgid "Slide Thumb"
+msgstr ""
+
+#: core/elementor/pm-media-slider-widget.php:173
+msgid "Video Fit Style"
+msgstr ""
+
+#: core/elementor/pm-person-widget.php:18
+#: core/elementor/pm-person-widget.php:104
+msgid "Person"
+msgstr ""
+
+#: core/elementor/pm-person-widget.php:131
+msgid "Position"
+msgstr ""
+
+#: core/elementor/pm-person-widget.php:148
+msgid "Social Icons"
+msgstr ""
+
+#: core/elementor/pm-person-widget.php:153
+msgid "icon"
+msgstr ""
+
+#: core/elementor/pm-person-widget.php:199
+msgid "Link"
+msgstr ""
+
+#: core/elementor/pm-portfolio-listing-widget.php:18
+#: core/elementor/pm-portfolio-listing-widget.php:73
+msgid "Portfolio Listing"
+msgstr ""
+
+#: core/elementor/pm-portfolio-listing-widget.php:122
+msgid "Portfolio View Type"
+msgstr ""
+
+#: core/elementor/pm-portfolio-listing-widget.php:126
+msgid "One Column"
+msgstr ""
+
+#: core/elementor/pm-portfolio-listing-widget.php:128
+msgid "Grid with Title"
+msgstr ""
+
+#: core/elementor/pm-portfolio-packery-widget.php:18
+#: core/elementor/pm-portfolio-packery-widget.php:73
+msgid "Portfolio Packery"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:18
+msgid "Price Item"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:104
+msgid "Price Table Item"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:111
+msgid "Background Color"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:140
+msgid "Price"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:157
+msgid "Most Popular"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:170
+msgid "Button State"
+msgstr ""
+
+#: core/elementor/pm-price-item-widget.php:194
+msgid "Button URL"
+msgstr ""
+
+#: core/elementor/pm-recent-ports-widget.php:18
+#: core/elementor/pm-recent-ports-widget.php:105
+msgid "Recent Portfolio"
+msgstr ""
+
+#: core/elementor/pm-recent-posts-widget.php:18
+#: core/elementor/pm-recent-posts-widget.php:105
+msgid "Recent Posts"
+msgstr ""
+
+#: core/elementor/pm-recent-posts-widget.php:228 functions.php:606
+#: single.php:31 standard-listing.php:26
+msgid "by"
+msgstr ""
+
+#: core/elementor/pm-recent-posts-widget.php:231 functions.php:609
+#: single-pm-portfolio.php:52 single.php:34
+msgid "in"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:17
+#: core/elementor/pm-testimonials-widget.php:103
+msgid "Testimonials"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:115
+msgid "Author Image"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:123
+msgid "Author Name"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:129
+msgid "Author Position"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:135
+msgid "Content"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:157
+msgid "Testimonials Style"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:161
+msgid "Carousel"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:162
+msgid "Flow"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:163 core/metabox.php:674
+msgid "Masonry"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:233 core/metabox.php:70
+msgid "Items in Row"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:237 core/metabox.php:74
+msgid "1 Item"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:238 core/metabox.php:75
+msgid "2 Items"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:239 core/metabox.php:76
+msgid "3 Items"
+msgstr ""
+
+#: core/elementor/pm-testimonials-widget.php:240 core/metabox.php:77
+msgid "4 Items"
+msgstr ""
+
+#: core/import/import.php:28
+msgid "After activating all the recommended plugins, you can import all demo content in one-touch. Appearance > Import Demo Data."
+msgstr ""
+
+#: core/metabox.php:16
+msgid "Image Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:21 core/metabox.php:65 core/metabox.php:588
+msgid "Select Images"
+msgstr ""
+
+#: core/metabox.php:26
+msgid "Crop Images"
+msgstr ""
+
+#: core/metabox.php:35 core/metabox.php:103
+msgid "Image Width"
+msgstr ""
+
+#: core/metabox.php:37 core/metabox.php:48 core/metabox.php:105
+#: core/metabox.php:112 core/metabox.php:133
+msgid "In pixels."
+msgstr ""
+
+#: core/metabox.php:46 core/metabox.php:110
+msgid "Image Height"
+msgstr ""
+
+#: core/metabox.php:60
+msgid "Gallery Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:78
+msgid "5 Items"
+msgstr ""
+
+#: core/metabox.php:83
+msgid "Items Shown on Blog Listing"
+msgstr ""
+
+#: core/metabox.php:89
+msgid "Show Images in Real Proportions"
+msgstr ""
+
+#: core/metabox.php:120
+msgid "Video Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:127
+msgid "Copy link to the video from YouTube or other video-sharing website."
+msgstr ""
+
+#: core/metabox.php:131
+msgid "Video Height"
+msgstr ""
+
+#: core/metabox.php:141
+msgid "Audio Past Format Settings"
+msgstr ""
+
+#: core/metabox.php:146
+msgid "Audio URL"
+msgstr ""
+
+#: core/metabox.php:148
+msgid "Copy link to the audio from SoundCloud or other audio-sharing website."
+msgstr ""
+
+#: core/metabox.php:155 core/metabox.php:244
+msgid "Featured Posts Settings"
+msgstr ""
+
+#: core/metabox.php:160 core/metabox.php:249
+msgid "Featured Posts"
+msgstr ""
+
+#: core/metabox.php:164 core/metabox.php:253
+msgid "Enabled"
+msgstr ""
+
+#: core/metabox.php:165 core/metabox.php:254
+msgid "Disabled"
+msgstr ""
+
+#: core/metabox.php:175 core/metabox.php:264
+msgid "Date"
+msgstr ""
+
+#: core/metabox.php:199
+msgid "Featured Image"
+msgstr ""
+
+#: core/metabox.php:213
+msgid "Meta"
+msgstr ""
+
+#: core/metabox.php:316
+msgid "Featured Block"
+msgstr ""
+
+#: core/metabox.php:329
+msgid "Portfolio Settings"
+msgstr ""
+
+#: core/metabox.php:354
+msgid "Media Block Status"
+msgstr ""
+
+#: core/metabox.php:358
+msgid "Boxed"
+msgstr ""
+
+#: core/metabox.php:359
+msgid "Fullwidth"
+msgstr ""
+
+#: core/metabox.php:364
+msgid "Add Client Field?"
+msgstr ""
+
+#: core/metabox.php:374
+msgid "Client:"
+msgstr ""
+
+#: core/metabox.php:384
+msgid "Additional Meta:"
+msgstr ""
+
+#: core/metabox.php:394 core/metabox.php:435
+msgid "Page Settings"
+msgstr ""
+
+#: core/metabox.php:422 core/metabox.php:522
+msgid "Footer"
+msgstr ""
+
+#: core/metabox.php:440 core/metabox.php:597
+msgid "Menu Type"
+msgstr ""
+
+#: core/metabox.php:445 core/metabox.php:602
+msgid "Open by Button"
+msgstr ""
+
+#: core/metabox.php:454
+msgid "Page Top Padding"
+msgstr ""
+
+#: core/metabox.php:467
+msgid "Page Bottom Padding"
+msgstr ""
+
+#: core/metabox.php:493
+msgid "Page Title Position"
+msgstr ""
+
+#: core/metabox.php:535
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: core/metabox.php:540
+msgid "4 Columns"
+msgstr ""
+
+#: core/metabox.php:557
+msgid "Show Background Overlay"
+msgstr ""
+
+#: core/metabox.php:569
+msgid "Background Overlay Color"
+msgstr ""
+
+#: core/metabox.php:583
+msgid "Album Settings"
+msgstr ""
+
+#: core/metabox.php:610
+msgid "Gallery Type"
+msgstr ""
+
+#: core/metabox.php:615
+msgid "Packery"
+msgstr ""
+
+#: core/metabox.php:616
+msgid "Slider"
+msgstr ""
+
+#: core/metabox.php:617
+msgid "Split"
+msgstr ""
+
+#: core/metabox.php:644
+msgid "Items on First Load"
+msgstr ""
+
+#: core/metabox.php:654
+msgid "Items on Load More"
+msgstr ""
+
+#: core/metabox.php:664
+msgid "Items Padding (in pixels)"
+msgstr ""
+
+#: core/metabox.php:687
+msgid "Load More Text"
+msgstr ""
+
+#: core/metabox.php:700
+msgid "Normal"
+msgstr ""
+
+#: core/metabox.php:712
+msgid "Transparent Header"
+msgstr ""
+
+#: core/metabox.php:771 core/metabox.php:786
+msgid "Title State"
+msgstr ""
+
+#: core/metabox.php:825
+msgid "Custom Overlay Color"
+msgstr ""
+
+#: core/metabox.php:879
+msgid "Comming Soon Settings"
+msgstr ""
+
+#: core/metabox.php:884
+msgid "Day"
+msgstr ""
+
+#: core/metabox.php:926
+msgid "Month"
+msgstr ""
+
+#: core/metabox.php:948
+msgid "Year"
+msgstr ""
+
+#: core/metabox.php:957
+msgid "Form Shortcode"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:334 core/tgm/init.php:96
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:335 core/tgm/init.php:97
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:337 core/tgm/init.php:98
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:340 core/tgm/init.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:342 core/tgm/init.php:100
+#, php-format
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:346 core/tgm/init.php:101
+#, php-format
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:350 core/tgm/init.php:106
+#, php-format
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:358 core/tgm/init.php:103
+#, php-format
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:362 core/tgm/init.php:104
+#, php-format
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:366 core/tgm/init.php:108
+msgid "Begin installing plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin updating plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:374 core/tgm/init.php:109
+msgid "Begin activating plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:377 core/tgm/init.php:110
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:378
+#: core/tgm/class-tgm-plugin-activation.php:897
+#: core/tgm/class-tgm-plugin-activation.php:2603
+#: core/tgm/class-tgm-plugin-activation.php:3650
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:379
+#: core/tgm/class-tgm-plugin-activation.php:3229 core/tgm/init.php:111
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:380
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:382
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:384
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:386
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:388
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:592
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:593
+msgid "Update Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1004
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1004
+#: core/tgm/class-tgm-plugin-activation.php:1007
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1007
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2052
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2346
+msgid "Recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2362
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2365
+msgid "External Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2368
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2385
+msgid "Not Installed"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2389
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2391
+msgid "Active"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2397
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2403
+msgid "Update recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2560
+msgid "Installed version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2568
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2580
+msgid "Available version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2603
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2617
+msgid "Plugin"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2618
+msgid "Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2619
+msgid "Type"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2623
+msgid "Version"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2624
+msgid "Status"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2678
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2684
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2754
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2787
+msgid "Install"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2793
+msgid "Update"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2796
+msgid "Activate"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2827
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2870
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2978
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3004
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3228
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3568
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3577
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#: core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Show Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#: core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Hide Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3580
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3582
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3585
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3588
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/init.php:21
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/tgm/init.php:26
+msgid "One Click Demo Import"
+msgstr ""
+
+#: core/tgm/init.php:33
+msgid "Meta Box"
+msgstr ""
+
+#: core/tgm/init.php:40
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: core/tgm/init.php:47
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: core/tgm/init.php:54
+msgid "Envato Market"
+msgstr ""
+
+#: core/tgm/init.php:63
+msgid "Pixel-Mafia Photberry Custom Post Types"
+msgstr ""
+
+#: core/tgm/init.php:72
+msgid "WooCommerce"
+msgstr ""
+
+#: core/tgm/init.php:102
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr ""
+
+#: core/tgm/init.php:105
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr ""
+
+#: core/tgm/init.php:107
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr ""
+
+#: core/tgm/init.php:112
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:56
+msgid "All settings of our theme are made through a standard Customizer. Click"
+msgstr ""
+
+#: functions.php:56
+msgid "here"
+msgstr ""
+
+#: functions.php:56
+msgid "to go to the settings"
+msgstr ""
+
+#: functions.php:58
+msgid "If you want to reset all settings, feel free to click on "
+msgstr ""
+
+#: functions.php:58
+msgid "this link"
+msgstr ""
+
+#: functions.php:58
+msgid "But remember that there is no turning back ;)"
+msgstr ""
+
+#: functions.php:60
+msgid "If you have any questions, problems or want to talk - email us via the form on "
+msgstr ""
+
+#: functions.php:60
+msgid "this"
+msgstr ""
+
+#: functions.php:132
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:176
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:178
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:188
+msgid "Sidebar Footer"
+msgstr ""
+
+#: functions.php:190
+msgid "Widgets in this area will be shown on footer area."
+msgstr ""
+
+#: functions.php:201
+msgid "Sidebar Woocommerce"
+msgstr ""
+
+#: functions.php:203
+msgid "Widgets in this area will be shown on Woocommerce Pages."
+msgstr ""
+
+#: functions.php:530
+msgid "You may also like"
+msgstr ""
+
+#: functions.php:1087
+msgid "Photberry Shop Settings"
+msgstr ""
+
+#: functions.php:1093
+msgid "Additional Shop Colors"
+msgstr ""
+
+#: functions.php:1120
+msgid "Sale Label State"
+msgstr ""
+
+#: functions.php:1135
+msgid "Cart Icon in Header"
+msgstr ""
+
+#: functions.php:1150
+msgid "Single Product Image Lightbox"
+msgstr ""
+
+#: functions.php:1165
+msgid "Single Product Image Zoom"
+msgstr ""
+
+#: functions.php:1180
+msgid "Single Product Image Slider"
+msgstr ""
+
+#: functions.php:1195
+msgid "Message Box Color"
+msgstr ""
+
+#: functions.php:1208
+msgid "Info Box Color"
+msgstr ""
+
+#: functions.php:1221
+msgid "Error Box Color"
+msgstr ""
+
+#: functions.php:1234
+msgid "Required Fields Color"
+msgstr ""
+
+#: functions.php:1247
+msgid "Remove Cross Color"
+msgstr ""
+
+#: header.php:27 header.php:60
+msgid "Back"
+msgstr ""
+
+#: header.php:33 header.php:66
+msgid "Please create and select menu in Appearance (Menus)"
+msgstr ""
+
+#: page-centered.php:62 page.php:60 single-pm-albums.php:524
+#: single-pm-portfolio.php:185 single.php:175
+msgid "Password Protected"
+msgstr ""
+
+#: page.php:38 single-pm-portfolio.php:75 single.php:57 woocommerce.php:39
+msgid "Pages"
+msgstr ""
+
+#: search.php:75
+msgid "Oops! Nothing Found!"
+msgstr ""
+
+#: single-pm-portfolio.php:48
+msgid "Client"
+msgstr ""
+
+#: single-pm-portfolio.php:83 single.php:73
+msgid "Share This Post"
+msgstr ""
+
+#: single-pm-portfolio.php:124 single.php:114
+msgid "Prev Post"
+msgstr ""
+
+#: single-pm-portfolio.php:139 single.php:129
+msgid "Next Post"
+msgstr ""
+
+#: single.php:64
+msgid "Tagged In"
+msgstr ""

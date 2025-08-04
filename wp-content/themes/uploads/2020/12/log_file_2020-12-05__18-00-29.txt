@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: Photberry were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://www.furiani.net
+Data file = /var/www/vhosts/furiani.net/httpdocs/wp-content/uploads/2020/12/demo-content-import-file_2020-12-05__18-00-29.xml
+Widget file = /var/www/vhosts/furiani.net/httpdocs/wp-content/uploads/2020/12/demo-widgets-import-file_2020-12-05__18-00-29.json
+Customizer file = /var/www/vhosts/furiani.net/httpdocs/wp-content/uploads/2020/12/demo-customizer-import-file_2020-12-05__18-00-29.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Text - About - Imported
+Categories - Categories - Imported
+Featured Posts (PM) - Featured Posts - Imported
+Tag Cloud - Popular Tags - Imported
+Text - No Title - Imported
+Flickr (PM) - No Title - Imported
+Text - Text Widget - Imported
+
+Sidebar Footer : 
+
+Quick Contact (PM) - Contact info - Imported
+Featured Posts (PM) - Featured Posts - Imported
+Navigation Menu - Useful Links - Imported
+Flickr (PM) - No Title - Imported
+
+Sidebar Woocommerce : 
+
+Product Categories - Product categories - Imported
+Product Search - No Title - Imported
+Cart - Shopping Cart - Imported
+Product Tag Cloud - Product tags - Imported
+Recent Product Reviews - Recent reviews - Imported
+
+

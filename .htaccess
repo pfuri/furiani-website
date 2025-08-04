@@ -1,0 +1,26 @@
+RewriteEngine On
+RewriteRule ^boo/?$ https://docs.google.com/forms/d/1EGgyNb5fy9eI0lM8j6wNvEJQv-KcVWpS4b4oqLoGIGQ/viewform [L,R=301]
+RewriteRule ^cafeteria-volunteer/?$ https://www.signupgenius.com/go/10C0E4AACAF28ABF4C70-coxcafeteria1 [L,R=301]
+RewriteRule ^favorite-things/?$ /resources/favorite-things [L,R=301]
+RewriteRule ^newsletter/?$ https://www.smore.com/u/coxelementarypta [L,R=301]
+RewriteRule ^pentathlon/?$ https://forms.gle/4mt21782tfip3f5WA [L,R=301]
+RewriteRule ^recess-volunteer/?$ https://www.signupgenius.com/go/10C0E4AACAF28ABF4C70-playground [L,R=301]
+RewriteRule ^resources/staff-profiles/?$ /resources/favorite-things [L,R=301]
+RewriteRule ^signup/?$ https://my.cheddarup.com/c/cox-elementary-pta-membership-dues [L,R=301]
+RewriteRule ^trunkortreat/?$ https://forms.gle/FkcsN3KZc14Vc68S6 [L,R=301]
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
